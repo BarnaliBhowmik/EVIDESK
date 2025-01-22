@@ -64,22 +64,21 @@ Edit
 npm start
 The app will run at http://localhost:3000.
 
-🎨 Design Inspiration
+## 🎨 Design Inspiration
 This project follows a modern design aesthetic using gradients, sharp typography, and engaging visuals to create a vibrant user experience.
 
-📈 Future Enhancements
+## 📈 Future Enhancements
 Add backend support for user authentication and profiles.
 Implement advanced features like research data visualization.
 Enable multi-language support for global users.
 Introduce AI-powered research insights and suggestions.
-🤝 Contributing
+
+## 🤝 Contributing
 Contributions are always welcome! To contribute:
 
 Fork the repository.
 Create a new branch for your feature/bug fix.
 Submit a pull request with a detailed description of your changes.
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
-🌟 Acknowledgements
+## 🌟 Acknowledgements
 Special thanks to the team and community for supporting the vision of EVIDESK. Let's elevate research together!
